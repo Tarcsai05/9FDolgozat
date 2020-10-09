@@ -1,0 +1,95 @@
+git clone https://github.com/Tarcsai05/9FDolgozat.git
+git config --global user.name "Tarcsai05"
+git config --global user.email "milantarcsai2@gmail.com"
+C:\Users\tanulo>cd..
+C:\Users>cd..
+C:\>cd 9f
+C:\9F>cd Tarcsai Milán
+C:\9F\Tarcsai Milán>git clone https://github.com/Tarcsai05/9FDolgozat.git
+C:\9F\Tarcsai Milán>cd 9FDolgozat
+C:\9F\Tarcsai Milán\9FDolgozat>copy con utasitasok.txt
+C:\9F\Tarcsai Milán\9FDolgozat>git commit -m "Tarcsai Milan"
+C:\9F\Tarcsai Milán\9FDolgozat>git push
+C:\9F\Tarcsai Milán\9FDolgozat>git pull
+(ezeket írtam)
+
+
+
+
+
+
+C:\Users\tanulo>cd \ users
+A rendszer nem találja a megadott elérési utat.
+
+C:\Users\tanulo>git clone https://github.com/Tarcsai05/9FDolgozat.git
+Cloning into '9FDolgozat'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), 592 bytes | 3.00 KiB/s, done.
+
+C:\Users\tanulo>git config --global user.name "Tarcsai05"
+warning: user.name has multiple values
+error: cannot overwrite multiple values with a single value
+       Use a regexp, --add or --replace-all to change user.name.
+
+C:\Users\tanulo>git config --global user.email "milantarcsai2@gmail.com"
+
+C:\Users\tanulo>git config --global user.email "milantarcsai2@gmail.com"
+
+C:\Users\tanulo>cd..
+
+C:\Users>cd..
+
+C:\>cd 9f
+
+C:\9F>cd Tarcsai Milán
+
+C:\9F\Tarcsai Milán>cd 9fdolgozatom
+A rendszer nem találja a megadott elérési utat.
+
+C:\9F\Tarcsai Milán>cd 9FDolgozat
+A rendszer nem találja a megadott elérési utat.
+
+C:\9F\Tarcsai Milán>cd 9FDolgozat
+A rendszer nem találja a megadott elérési utat.
+
+C:\9F\Tarcsai Milán>git clone https://github.com/Tarcsai05/9FDolgozat.git
+Cloning into '9FDolgozat'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), 592 bytes | 4.00 KiB/s, done.
+
+C:\9F\Tarcsai Milán>cd 9FDolgozat
+
+C:\9F\Tarcsai Milán\9FDolgozat>copy con utasitasok.txt
+git checkout --állománynév
+git diff állománynév.git diff HEAD,git diff --staged,git diff --cached
+git redet állománynév
+git pull origin master^Z
+        1 file(s) copied.
+
+C:\9F\Tarcsai Milán\9FDolgozat>git add utasitasok.txt
+
+C:\9F\Tarcsai Milán\9FDolgozat>git commit -m "Tarcsai Milan"
+[main 8d4705e] Tarcsai Milan
+ 1 file changed, 4 insertions(+)
+ create mode 100644 utasitasok.txt
+
+C:\9F\Tarcsai Milán\9FDolgozat>git push
+Username for 'https://github.com': Tarcsai05
+Password for 'https://Tarcsai05@github.com':
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 375 bytes | 93.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/Tarcsai05/9FDolgozat.git
+   f175392..8d4705e  main -> main
+
+C:\9F\Tarcsai Milán\9FDolgozat>git pull
+Already up to date.
+
+C:\9F\Tarcsai Milán\9FDolgozat>
